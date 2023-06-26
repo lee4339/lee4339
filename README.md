@@ -68,7 +68,8 @@
 </div>
 
 </br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee4339)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee4339&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=lee4339&show_icons=true">
 
 
 
