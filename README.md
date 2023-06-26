@@ -12,7 +12,7 @@
   <p>메인 언어 JAVA로 백엔드 개발에 관심을 가지고 있는 주니어 개발자입니다.
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/saluting-face_1fae1.png" srcset="https://em-content.zobj.net/source/microsoft-teams/363/saluting-face_1fae1.png 2x" alt="Saluting Face on Microsoft Teams 15.0" width="25" height="25" align= "center">
   </p> 
-  </br><p>(I am a junior developer who is interested in developing the backend with the main language JAVA)</p>
+  <p>(I am a junior developer who is interested in developing the backend with the main language JAVA)</p>
 </div> 
 
 
