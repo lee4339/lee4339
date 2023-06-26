@@ -9,5 +9,12 @@
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/saluting-face_1fae1.png" srcset="https://em-content.zobj.net/source/microsoft-teams/363/saluting-face_1fae1.png 2x" alt="Saluting Face on Microsoft Teams 15.0" width="25" height="25" align= "center">
   </br> (I am a junior developer who is interested in developing the backend with the main language JAVA)
 </p> 
+<p align="center">
+  <img src="https://em-content.zobj.net/thumbs/120/samsung/349/e-mail_1f4e7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/e-mail_1f4e7.png 2x" alt="이메일 on Samsung One UI 5.0" width="108" height="108"
+    align="center">
+  : skyho4339@naver.com
+</p>
+---------------------------------------------------------------------------------------------------------------
+<h1>skill</h1>
 
 
