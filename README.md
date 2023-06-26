@@ -15,7 +15,7 @@
     <img src="https://em-content.zobj.net/thumbs/120/google/350/flexed-biceps_1f4aa.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/flexed-biceps_1f4aa.png 2x" alt="알통 on Google Noto Color Emoji 15.0" width="25" height="25" align= "center">
   </p>
   <p align= "center">
-    잘 부탁드립니다.
+    잘 부탁드립니다(Thank You).
     <img src="https://em-content.zobj.net/thumbs/120/google/350/man-bowing_1f647-200d-2642-fe0f.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/man-bowing_1f647-200d-2642-fe0f.png 2x" alt="절하는 남자 on Google Noto Color Emoji 15.0" width="25" height="25" align= "center">
   </p>
 </div>
@@ -66,6 +66,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/AWS(RDS, EC2)-FF9900?style=flat&logo=Amazon AWS&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white">
 </div>
+
+</br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee4339)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
