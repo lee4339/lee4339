@@ -45,6 +45,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/JSP-EE4353">
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+
+  </br>
+  </br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white">
 </div>
 
 
