@@ -31,7 +31,10 @@
     skill
   </strong>
   <img src="https://em-content.zobj.net/thumbs/120/google/350/light-bulb_1f4a1.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/light-bulb_1f4a1.png 2x" alt="전구 on Google Noto Color Emoji 15.0" width="20" height="20" align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JAVA?style=flat&logo=JAVA&logoColor=white">
+  
+  </br>
+  
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
 </div>
 
 
