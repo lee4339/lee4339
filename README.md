@@ -14,8 +14,7 @@
     align="center">
   : skyho4339@naver.com
 </p>
-<p>안녕하세요구르트</p>
-<div board></div>
+<div border-bottom="solid"></div>
 <h1>skill</h1>
 
 
