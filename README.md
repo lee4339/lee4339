@@ -16,11 +16,12 @@
 <div align="center">
   <img src="https://em-content.zobj.net/thumbs/120/samsung/349/e-mail_1f4e7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/e-mail_1f4e7.png 2x" alt="이메일 on Samsung One UI 5.0" width="25" height="25"
       align="center">
+  <strong>email</strong>
+  <img src="https://em-content.zobj.net/thumbs/120/samsung/349/e-mail_1f4e7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/e-mail_1f4e7.png 2x" alt="이메일 on Samsung One UI 5.0" width="25" height="25"
+      align="center">
   <p align="center">
     skyho4339@naver.com
   </p>
-  <img src="https://em-content.zobj.net/thumbs/120/samsung/349/e-mail_1f4e7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/e-mail_1f4e7.png 2x" alt="이메일 on Samsung One UI 5.0" width="25" height="25"
-      align="center">
 </div>
 
 </br>
