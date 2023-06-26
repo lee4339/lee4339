@@ -10,6 +10,14 @@
     <img src="https://em-content.zobj.net/source/microsoft-teams/363/saluting-face_1fae1.png" srcset="https://em-content.zobj.net/source/microsoft-teams/363/saluting-face_1fae1.png 2x" alt="Saluting Face on Microsoft Teams 15.0" width="25" height="25" align= "center">
     </br> (I am a junior developer who is interested in developing the backend with the main language JAVA)
   </p> 
+  <p align= "center">
+    항상 제 자신을 개발하고자 합니다(I always try to improve myself).
+    <img src="https://em-content.zobj.net/thumbs/120/google/350/flexed-biceps_1f4aa.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/flexed-biceps_1f4aa.png 2x" alt="알통 on Google Noto Color Emoji 15.0" width="25" height="25" align= "center">
+  </p>
+  <p align= "center">
+    잘 부탁드립니다.
+    <img src="https://em-content.zobj.net/thumbs/120/google/350/man-bowing_1f647-200d-2642-fe0f.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/man-bowing_1f647-200d-2642-fe0f.png 2x" alt="절하는 남자 on Google Noto Color Emoji 15.0" width="25" height="25" align= "center">
+  </p>
 </div>
 
 </br>
