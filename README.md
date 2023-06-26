@@ -51,6 +51,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white">
+
+  </br>
+  </br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/AWS(RDS, EC2)-FF9900?style=flat&logo=Amazon AWS&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white">
 </div>
 
 
