@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome my github 👋
 
 <!--
 **lee4339/lee4339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
