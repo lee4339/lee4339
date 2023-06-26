@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=90&fontAlignY=30&desc='GEONHO'%20GitHub%20Profile&descAlignY=51&descAlign=59.5&align=center" />
 
 <!-- main -->
-<div>
+<div align="center">
   <p align= "center">안녕하세요(Hello)
     <img src="https://em-content.zobj.net/source/joypixels-animations/366/waving-hand_1f44b.gif" srcset="https://em-content.zobj.net/source/joypixels-animations/366/waving-hand_1f44b.gif 2x" alt="흔드는 손 on JoyPixels Animations 3.5" width="25" height="25" align= "center">
   </p>
@@ -68,7 +68,10 @@
 </div>
 
 </br>
-<img src="https://github-readme-stats.vercel.app/api?username=lee4339&show_icons=true">
+</br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lee4339&show_icons=true">
+</div>
 
 
 
