@@ -17,6 +17,8 @@
   </p>
 </div>
 
+</br>
+
 <div align="center">
   <img src="https://em-content.zobj.net/thumbs/120/google/350/light-bulb_1f4a1.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/light-bulb_1f4a1.png 2x" alt="전구 on Google Noto Color Emoji 15.0" width="25" height="25" align="center">
   <strong align="center">
