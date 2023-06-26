@@ -15,6 +15,6 @@
   : skyho4339@naver.com
 </p>
 <div width="1rem"; border-bottom="1rem solid black"></div>
-<bold>skill</bold>
+<strong>skill</strong>
 
 
