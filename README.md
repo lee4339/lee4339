@@ -33,7 +33,6 @@
   <img src="https://em-content.zobj.net/thumbs/120/google/350/light-bulb_1f4a1.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/light-bulb_1f4a1.png 2x" alt="전구 on Google Noto Color Emoji 15.0" width="20" height="20" align="center">
   
   </br>
-  
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
@@ -41,6 +40,11 @@
   </br>
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-0ABF53">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+
+  </br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/JSP-EE4353">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 </div>
 
 
