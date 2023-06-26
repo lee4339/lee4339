@@ -14,10 +14,10 @@
 
 </br>
 <div align="center">
-  <img src="https://em-content.zobj.net/thumbs/120/samsung/349/e-mail_1f4e7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/e-mail_1f4e7.png 2x" alt="이메일 on Samsung One UI 5.0" width="25" height="25"
+  <img src="https://em-content.zobj.net/thumbs/120/samsung/349/e-mail_1f4e7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/e-mail_1f4e7.png 2x" alt="이메일 on Samsung One UI 5.0" width="20" height="20"
       align="center">
   <strong>email</strong>
-  <img src="https://em-content.zobj.net/thumbs/120/samsung/349/e-mail_1f4e7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/e-mail_1f4e7.png 2x" alt="이메일 on Samsung One UI 5.0" width="25" height="25"
+  <img src="https://em-content.zobj.net/thumbs/120/samsung/349/e-mail_1f4e7.png" srcset="https://em-content.zobj.net/thumbs/240/samsung/349/e-mail_1f4e7.png 2x" alt="이메일 on Samsung One UI 5.0" width="20" height="20"
       align="center">
   <p align="center">
     skyho4339@naver.com
@@ -25,13 +25,12 @@
 </div>
 
 </br>
-
 <div align="center">
-  <img src="https://em-content.zobj.net/thumbs/120/google/350/light-bulb_1f4a1.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/light-bulb_1f4a1.png 2x" alt="전구 on Google Noto Color Emoji 15.0" width="25" height="25" align="center">
+  <img src="https://em-content.zobj.net/thumbs/120/google/350/light-bulb_1f4a1.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/light-bulb_1f4a1.png 2x" alt="전구 on Google Noto Color Emoji 15.0" width="20" height="20" align="center">
   <strong align="center">
     skill
   </strong>
-  <img src="https://em-content.zobj.net/thumbs/120/google/350/light-bulb_1f4a1.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/light-bulb_1f4a1.png 2x" alt="전구 on Google Noto Color Emoji 15.0" width="25" height="25" align="center">
+  <img src="https://em-content.zobj.net/thumbs/120/google/350/light-bulb_1f4a1.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/light-bulb_1f4a1.png 2x" alt="전구 on Google Noto Color Emoji 15.0" width="20" height="20" align="center">
 </div>
 
 
