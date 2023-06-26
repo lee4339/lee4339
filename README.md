@@ -15,6 +15,10 @@
   : skyho4339@naver.com
 </p>
 <div width="1rem"; border-bottom="1rem solid black"></div>
-<strong>skill</strong>
+<strong>
+  <img src="https://em-content.zobj.net/thumbs/120/google/350/light-bulb_1f4a1.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/light-bulb_1f4a1.png 2x" alt="전구 on Google Noto Color Emoji 15.0" width="25" height="25" align="center">
+  skill
+<img src="https://em-content.zobj.net/thumbs/120/google/350/light-bulb_1f4a1.png" srcset="https://em-content.zobj.net/thumbs/240/google/350/light-bulb_1f4a1.png 2x" alt="전구 on Google Noto Color Emoji 15.0" width="25" height="25" align="center">
+</strong>
 
 
