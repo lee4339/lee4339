@@ -3,7 +3,7 @@
 
 <!-- main -->
 <div align="center">
-  <p align= "center">안녕하세요(Hello)
+  <p align= "center">안녕하세요(Hello).
     <img src="https://em-content.zobj.net/source/joypixels-animations/366/waving-hand_1f44b.gif" srcset="https://em-content.zobj.net/source/joypixels-animations/366/waving-hand_1f44b.gif 2x" alt="흔드는 손 on JoyPixels Animations 3.5" width="25" height="25" align= "center">
   </p>
   <p align= "center">메인 언어 JAVA로 백엔드 개발에 관심을 가지고 있는 주니어 개발자입니다.
